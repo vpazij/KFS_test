@@ -1,0 +1,29 @@
+{
+  "name": "e2e",
+  "description": "E2E Testing",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "jasmine-reporters": "~2",
+    "protractor": "^5.3.2",
+    "protractor-jasmine2-html-reporter": "latest"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "chai": "^4.2.0",
+    "chai-smoothie": "^0.3.2",
+    "eslint": "^4.18.1",
+    "jasmine-fail-fast": "^2.0.0",
+    "jasmine-reporters": "^2.2.1",
+    "mkdir": "0.0.2",
+    "path": "^0.12.7",
+    "properties": "^1.2.1",
+    "properties-reader": "0.0.16"
+  }
+}

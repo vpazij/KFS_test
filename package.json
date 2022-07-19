@@ -24,6 +24,6 @@
     "mkdir": "0.0.2",
     "path": "^0.12.7",
     "properties": "^1.2.1",
-    "properties-reader": "0.0.16"
+    "properties-reader": "2.2.0"
   }
 }
